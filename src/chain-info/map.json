@@ -1,0 +1,22 @@
+{
+  "4": {
+    "DappToken": [
+      "0xF5A365DD834aD6C77837aFfD26940f33e9628B6A"
+    ],
+    "TokenFarm": [
+      "0xF770cb14F88F9ba41305eD783d5213238E3f5B47"
+    ]
+  },
+  "42": {
+    "DappToken": [
+      "0x456aB06947cd44dF7ae9E53d3a20e97f6EAb5F4c",
+      "0xFc0733998e91C66484b2ceC81313d4ba8424d48c",
+      "0x58Db0652b8334d865fF56926716C364Fd7925B25"
+    ],
+    "TokenFarm": [
+      "0x259f50Af5846f038a2fC27d36385111be96F355b",
+      "0x4b9A82e9375eeD55Df26dA0c8c225d568e041D13",
+      "0xc570fd7d28149dA01D8e29855d85B7dB3d3ad8dF"
+    ]
+  }
+}
